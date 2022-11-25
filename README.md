@@ -4,7 +4,7 @@
 
 # Sobre o Projeto
 
-API feita em Python utilizando o framework Flask para gerenciar dados de algumas estações meteorológicas do Brasil.
+API feita em Python utilizando o framework Flask para gerenciar dados de algumas estações meteorológicas.
 
 # Índice/Sumário
 
