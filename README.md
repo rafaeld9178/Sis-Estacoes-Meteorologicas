@@ -1,7 +1,6 @@
-# API - Sistema de Gerenciamento de Aeroportos
+# API - Sistema de Gerenciamento de Estações Meteorológicas
 
-
-![Capa do Projeto](https://i0.wp.com/www.aeroflap.com.br/wp-content/uploads/2022/02/aeroporto-portoalegre-1.jpg?fit=1097%2C568&ssl=1)
+![Capa do Projeto](https://enviraiot.es/wp-content/uploads/2018/05/sensores_meteorologicos.jpg)
 
 # Sobre o Projeto
 
